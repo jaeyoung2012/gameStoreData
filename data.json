@@ -1,3 +1,12 @@
-[
-  {"title" : "aa", "url" : "https://google.com", "content" : "hello,w orld"}
-]
+{
+  "news" : [
+    {
+      "title" : "신규출시 : Geometries With Color",
+      "content" : "단순한 그래픽, 뛰어난 재미를 보장하는 게임"
+    }
+  ],
+  "games" : [
+    {"title" : "Geometries With Color", "url" : "https://geometry-with-color.netlify.app", "content" : "여러 도형들을 총으로 처치하거나 피하며 점수를 얻고 강해지세요!"}
+  ]  
+}
+
