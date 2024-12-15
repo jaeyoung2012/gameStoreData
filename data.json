@@ -1,6 +1,10 @@
 {
   "news" : [
     {
+      "title" : "Hello, World!",
+      "content" : "만듬"
+    },
+    {
       "title" : "신규출시 : Geometries With Color",
       "content" : "단순한 그래픽, 뛰어난 재미를 보장하는 게임"
     }
